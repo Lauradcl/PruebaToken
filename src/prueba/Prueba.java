@@ -15,6 +15,7 @@ public class Prueba {
      */
     public static void main(String[] args) {
         System.out.println("Hola muy buenas ");
+        System.out.println("El mio es el que manda ");
         
     }
     
